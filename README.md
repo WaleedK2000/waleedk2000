@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Engineer**, currentl
 - 🎓  Completed my undergraduate studies in Computer Science at **FAST NUCES Islamabad**. 
 - 🚀 Building solutions that create a positive impact on society.
 - 💡 Skilled in **FastAPI**, **React.js**, **Docker**, and **GitHub Workflows**.  
-- 🔍 Exploring **Cybersecurity**, **Data Science**, and **IoT applications**.  
+- 🔍 Exploring **DevOps**, **Backend Development**, **Cloud Development** and **AI**.  
 
 ---
 
@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Engineer**, currentl
   - Built robust backend logic using Python & FAST API, handling complex business rules and data processing.
   - Designed and developed reusable React JS components, enhancing code modularity, reducing duplication, and improving application maintainability.
   - Designed and implemented backend services with **FastAPI**.  
-- **Associate Software Engineer**  
+- **Associate Software Engineer @ Prismware Technology**  
   - Design and implement user-facing features, ensuring optimal rendering time and reusability of UI components.
   - Troubleshoot code and resolve technical challenges to maintain high-quality applications.
   - Work closely with design and product teams to create intuitive and user-friendly applications
