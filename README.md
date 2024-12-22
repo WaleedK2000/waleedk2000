@@ -30,12 +30,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Engineer**, currentl
 
 ---
 
-## 📈 GitHub Stats  
 
-![Waleed Kayani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Waleed-Kayani&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Waleed-Kayani&layout=compact&theme=radical)  
-
----
 
 ## 💼 Professional Experience  
 
@@ -82,6 +77,13 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Engineer**, currentl
 - Collaborations on projects.  
 - Sharing tech knowledge.  
 - Contributing to impactful open-source projects.  
+
+---
+
+## 📈 GitHub Stats  
+
+![Waleed Kayani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Waleed-Kayani&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Waleed-Kayani&layout=compact&theme=radical)  
 
 ---
 
