@@ -17,16 +17,23 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Waleed Kayani! 👋  
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack Engineer**, currently working at Codeaza Technologies.
+Welcome to my GitHub profile! I'm a passionate **Full-Stack Engineer**, currently working at Codeaza Technologies. My commitment to quality is reflected in the maintenance of clean, efficient code and a dedication to front-end development that resonates with users. As a recipient of multiple Dean's List honors, my academic and professional journey is underpinned by a continuous pursuit of excellence and innovation in the tech industry.
 
 ---
 
 ## 🌟 About Me  
 
-- 🎓  Completed my undergraduate studies in Computer Science at **FAST NUCES Islamabad**. 
-- 🚀 Building solutions that create a positive impact on society.
+- 🎓  Completed my undergraduate studies in Computer Science at **FAST NUCES Islamabad** IN 2023. 
+- 🚀 Building solutions that create a positive impact on society. 
 - 💡 Skilled in **FastAPI**, **React.js**, **Docker**, and **GitHub Workflows**.  
 - 🔍 Exploring **DevOps**, **Backend Development**, **Cloud Development** and **AI**.  
+
+---
+
+## 📈 GitHub Stats  
+
+![Waleed Kayani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Waleed-Kayani&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Waleed-Kayani&layout=compact&theme=radical)  
 
 ---
 
@@ -65,6 +72,8 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Engineer**, currentl
 ![FastAPI](https://img.shields.io/badge/-FastAPI-teal?logo=fastapi&logoColor=white)  
 ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)  
 ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)  
+![Azure](https://img.shields.io/badge/-Azure-blue?logo=microsoft-azure&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazon-aws&logoColor=white)  
 
 ---
 
