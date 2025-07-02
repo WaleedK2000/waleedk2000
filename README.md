@@ -37,10 +37,9 @@ I'm a **Software Engineer**, currently working at Codeaza Technologies. My commi
 ## 💼 Professional Experience  
 
 - **Full-Stack Engineer @ Codeaza Technologies**  
-  -Improved API loading times by around 50% through strategic indexing and materialized view implementation, resulting in enhanced user experience and increased system efficiency.
+   - Built robust backend logic using Python & FAST API, handling complex business rules and data processing.
   - Designed and developed reusable React JS components, enhancing code modularity, reducing duplication, and improving application maintainability.
   - Implemented AWS Iaac using pulumi to reduce overhead of managing resources between development and production environment. Developed CI/CD pipeline on github actions to automate deployment.
-  - Built robust backend logic using Python & FAST API, handling complex business rules and data processing.
   - Developed solutions according to customer needs with tools such as React JS, FAST API, PostgreSQL & Docker.  
 - **Associate Software Engineer @ Prismware Technology**  
   - Design and implement user-facing features, ensuring optimal rendering time and reusability of UI components.
