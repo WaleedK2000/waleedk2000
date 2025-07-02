@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile!
 
-I'm a passionate **Software Engineer**, currently working at Codeaza Technologies. My commitment to quality is reflected in the maintenance of clean, efficient code and a dedication to front-end development that resonates with users. As a graduate of Computer Science, my academic and professional journey is underpinned by a continuous pursuit of excellence and innovation in the tech industry.
+I'm a **Software Engineer**, currently working at Codeaza Technologies. My commitment to quality is reflected in the maintenance of clean, efficient code and a dedication to front-end development that resonates with users. As a graduate of Computer Science, my academic and professional journey is underpinned by a continuous pursuit of excellence and innovation in the tech industry.
 
 ---
 
